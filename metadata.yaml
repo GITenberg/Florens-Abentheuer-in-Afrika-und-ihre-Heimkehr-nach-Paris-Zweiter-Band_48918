@@ -1,4 +1,8 @@
 _repo: Florens-Abentheuer-in-Afrika-und-ihre-Heimkehr-nach-Paris-Zweiter-Band_48918
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48918-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Voss, Julius von
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '39180'
     url: http://www.gutenberg.org/2009/agents/39180
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48918#Florens-Abentheuer-in-Afrika-und-ihre-Heimkehr-nach-Paris-Zweiter-Band
 gutenberg_issued: '2015-05-10'
 gutenberg_type: Text
 identifiers:
