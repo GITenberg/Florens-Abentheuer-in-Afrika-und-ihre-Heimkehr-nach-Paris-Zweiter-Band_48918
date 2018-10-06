@@ -24,5 +24,7 @@ language: de
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Florens Abentheuer in Afrika, und ihre Heimkehr nach Paris. Zweiter Band.
 url: http://www.gutenberg.org/ebooks/48918
